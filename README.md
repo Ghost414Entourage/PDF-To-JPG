@@ -1,4 +1,4 @@
-![Mr  Clippy sticking a piece of paper into a fax machine](https://github.com/user-attachments/assets/d34f40b4-de35-403f-a16f-c1cc1a104422)
+![Mr  Clippy sticking a piece of paper into a fax machine](https://github.com/user-attachments/assets/986b2b96-b236-4002-9055-1734ec0716c4)
 
 Step by Step Commands for Linux
 

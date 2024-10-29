@@ -1,23 +1,25 @@
-Mkdir PDFToJPEGConverter
+Step by Step Commands for Linux
 
-cd PDFToJPEGConverter
+- Mkdir PDFToJPEGConverter
 
-python3 -m venv venv
+- cd PDFToJPEGConverter
 
-source venv/bin/activate
+- python3 -m venv venv
 
-pip3 install pdf2image Pillow
+- source venv/bin/activate
 
-pip3 install PyMuPDF
+- pip3 install pdf2image Pillow
 
-mkdir src
+- pip3 install PyMuPDF
 
-touch src/__init__.py
+- mkdir src
 
-touch src/pdf_to_jpeg.py
+- touch src/__init__.py
 
-pip3 install PyMuPDF
+- touch src/pdf_to_jpeg.py
 
-nano src/pdf_to_jpeg.py
+- pip3 install PyMuPDF
 
-python3 pdf_to_jpeg.py
+- nano src/pdf_to_jpeg.py
+
+- python3 pdf_to_jpeg.py

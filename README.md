@@ -22,4 +22,4 @@ Step by Step Commands for Linux
 
 - nano src/pdf_to_jpeg.py
 
-- python3 pdf_to_jpeg.py
+- python3 src/pdf_to_jpeg.py

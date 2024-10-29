@@ -1,4 +1,4 @@
-![Mr  Clippy sticking a piece of paper into a fax machine](https://github.com/user-attachments/assets/986b2b96-b236-4002-9055-1734ec0716c4)
+<img width="412" alt="Screenshot 2024-10-29 at 12 21 07 AM" src="https://github.com/user-attachments/assets/6e141ab8-d6c7-464c-801b-f64fcb6beaa8">
 
 Step by Step Commands for Linux
 

@@ -23,3 +23,5 @@ Step by Step Commands for Linux
 - nano src/pdf_to_jpeg.py
 
 - python3 src/pdf_to_jpeg.py
+
+In the file pdf_to_jpeg.py change the UserName and replace the nane of the pdf with your pdf file name 
